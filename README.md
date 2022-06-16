@@ -15,8 +15,8 @@
     
     
 ## Languages Implemented
-    - HTML
-    - CSS
+- HTML
+- CSS
 - JavaScript (ReactJS and NextJS)
 
     
