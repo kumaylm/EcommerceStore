@@ -1,5 +1,5 @@
 
-## Modern Full Stack ECommerce Application
+## Modern Full Stack E-Commerce Application
 ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 
 **A fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. 
@@ -14,7 +14,9 @@
 - Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
     
     
-## Language Implemented
+## Languages Implemented
+    - HTML
+    - CSS
 - JavaScript (ReactJS and NextJS)
 
     
