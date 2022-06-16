@@ -14,7 +14,7 @@
 - Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
     
     
-## Languages Implemented
+## Language Implemented
 - JavaScript (ReactJS and NextJS)
 
     
