@@ -2,7 +2,7 @@
 ## Modern Full Stack E-Commerce Application
 ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 
-A fully responsive modern full stack eCommerce application with modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly, a complete integration with Stripe so that you can cover REAL payments. 
+A fully responsive modern full stack ecommerce application with modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly, a complete integration with Stripe so that you can cover REAL payments. 
 
 ## Concepts Practiced
 - Advanced React Best Practices such as folder and file structure, hooks and refs
